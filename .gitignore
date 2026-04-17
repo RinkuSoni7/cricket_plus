@@ -1,0 +1,10 @@
+venv/
+.DS_Store
+__pycache__/
+*.pyc
+db.sqlite3
+Cricketpulse/venv/
+Cricketpulse/db.sqlite3
+Cricketpulse/__pycache__/
+.migrate
+
